@@ -1,7 +1,5 @@
 # Wealthify-chatbot
 
-# Wealthify: Ask Me Anything on Mutual Funds
-
 Wealthify Chat is an AI-powered chatbot which inturn is an extended feature of a bigger project Wealthify, that recommends mutual funds,ETFs and Bonds. Built using `Streamlit`, `LangChain`, `ChatGroq`, and `Google Generative AI Embeddings`, this app allows users to ask custom questions or use provided sample questions. The app processes and retrieves context from financial documents to give accurate, insightful answers.
 
 ## Features
